@@ -1,0 +1,13 @@
+Bitrate (Gbps),Laser Power (dBm),Receiver Sensitivity (dBm),Margin (dB),Splice Loss (dB),Connector Loss (dB),Fiber Loss (dB),Dispersion Comp. Loss (dB),Total Required Power (dBm),Link OK,Laser,Compensator
+1,19.0,-25.11,1,0.3,1.0,13.6,6.3,-2.91,True,Laser-1,DCM-80
+1,19.0,-25.11,1,0.3,1.0,13.6,6.48,-2.73,True,Laser-1,PMDCF
+1,16.0,-25.11,1,0.3,1.0,13.6,6.3,-2.91,True,Laser-2,DCM-80
+1,16.0,-25.11,1,0.3,1.0,13.6,6.48,-2.73,True,Laser-2,PMDCF
+5,19.0,-18.13,1,0.3,1.0,13.6,6.3,4.07,True,Laser-1,DCM-80
+5,19.0,-18.13,1,0.3,1.0,13.6,6.48,4.25,True,Laser-1,PMDCF
+5,16.0,-18.13,1,0.3,1.0,13.6,6.3,4.07,True,Laser-2,DCM-80
+5,16.0,-18.13,1,0.3,1.0,13.6,6.48,4.25,True,Laser-2,PMDCF
+20,19.0,-12.1,1,0.3,1.0,13.6,6.3,10.1,True,Laser-1,DCM-80
+20,19.0,-12.1,1,0.3,1.0,13.6,6.48,10.28,True,Laser-1,PMDCF
+20,16.0,-12.1,1,0.3,1.0,13.6,6.3,10.1,True,Laser-2,DCM-80
+20,16.0,-12.1,1,0.3,1.0,13.6,6.48,10.28,True,Laser-2,PMDCF
